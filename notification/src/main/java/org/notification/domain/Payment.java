@@ -1,0 +1,16 @@
+package org.notification.domain;
+
+import java.util.UUID;
+
+import lombok.*;
+
+@Data
+@ToString
+public class Payment {
+	private UUID paymentId;
+	private Integer userId;
+	private Integer cashierId;
+	private float mount;
+	private String comment;
+	private String createdAt;
+}

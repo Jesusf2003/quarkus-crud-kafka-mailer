@@ -1,0 +1,17 @@
+.project
+
+simple-crud/.project
+simple-crud/.classpath
+simple-crud/.settings
+
+payment/.project
+payment/.classpath
+payment/.settings
+
+notification/.project
+notification/.classpath
+notification/.settings
+
+notification-service/.project
+notification-service/.classpath
+notification-service/.settings
